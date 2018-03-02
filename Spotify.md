@@ -37,4 +37,4 @@ _Arquitectura de pagos_
 ![Spotify-Payment-Architecture](Spotify-Payment-Architecture.png)
 ### Seguridad de la informacion, seguridad informatica.
 
-Se parchan varios issues a traves de la actulizacion de sus apps moviles y web, persiguiendo tanto la integridad como un posible ataque.
+Se parchan varios issues a traves de la actualizacion de sus apps moviles y web, persiguiendo tanto la integridad como interrupiendo un posible ataque.
