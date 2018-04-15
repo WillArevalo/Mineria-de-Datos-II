@@ -40,6 +40,8 @@ Tambien podemos generar un mapa donde podamos ubicar nuestro mercado y el mercad
 ![Busqueda Geografica](./Busquedageografica.png)
 _Paises que obtienen mas beneficio_
 
+_Tableau_ es una herramienta bastante poderosa que permite hacer todo un proceso de ETL, con diversas y grandiosas funciones, realmente facil de manejar, tambien podemos crear dashboards y reportes web interactivos con dicha aplicacion.
+
 Los datasets se encuentran en este mismo repositorio
 
 
